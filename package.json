@@ -1,0 +1,34 @@
+{
+  "name": "react-css-styled-component-generator",
+  "version": "1.0.5",
+  "description": "As developers move towards CSS-in-JS solutions like styled-components, converting legacy CSS files or inline styles can be tedious and error-prone. This package would automate the process, allowing developers to migrate to styled-components more quickly and easily",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavadip111/styled-component-generator.git"
+  },
+  "keywords": [
+    "style-component-generator"
+  ],
+  "author": "Bhavadip",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhavadip111/styled-component-generator/issues"
+  },
+  "homepage": "https://github.com/bhavadip111/styled-component-generator#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.25.7",
+    "@babel/preset-env": "^7.25.8"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "dependencies": {
+    "styled-components": "^5.3.6"
+  }
+}
