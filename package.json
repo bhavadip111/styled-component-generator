@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/bhavadip111/styled-component-generator/issues"
   },
-  "homepage": "https://github.com/bhavadip111/styled-component-generator#readme",
+  "homepage": "https://github.com/bhavadip111/styled-component-generator",
   "devDependencies": {
     "@babel/cli": "^7.25.7",
     "@babel/preset-env": "^7.25.8"
