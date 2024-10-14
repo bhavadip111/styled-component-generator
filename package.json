@@ -12,7 +12,15 @@
     "url": "git+https://github.com/bhavadip111/styled-component-generator.git"
   },
   "keywords": [
-    "style-component-generator"
+    "style-component-generator",
+    "component",
+    "component-generator",
+    "component-create",
+    "style-component",
+    "create style component",
+    "custome-style",
+    "custom component",
+    "custom style component"
   ],
   "author": "Bhavadip",
   "license": "MIT",
